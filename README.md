@@ -15,7 +15,7 @@ Vector c = a + b;
 c.print();
 
 Vector d = c - 7 * a;
- d.print();
+d.print();
 
 Console.WriteLine(a * c);
 ```
